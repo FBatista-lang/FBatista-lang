@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Francisco Javier Batista Acosta</h1>
 <h3 align="center">A Software Engineer from Dominican Republic</h3>
 
-- 💬 Ask me about **C#, Ionic, Flutter**
+- 💬 Ask me about **C#, Ionic, Vue.js**
 
 - 📫 How to reach me **franciscojavierbatistaacosta@gmail.com**
 
